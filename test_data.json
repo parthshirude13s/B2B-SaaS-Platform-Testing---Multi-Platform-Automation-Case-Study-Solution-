@@ -1,0 +1,16 @@
+{
+  "tenants": {
+    "company1": {
+      "id": "company1",
+      "role": "admin"
+    },
+    "company2": {
+      "id": "company2",
+      "role": "admin"
+    }
+  },
+  "project": {
+    "description": "Created by automation",
+    "team_members": []
+  }
+}
